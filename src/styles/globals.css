@@ -1,0 +1,87 @@
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.text-lead {
+  margin: 0;
+  font-weight: 400;
+  font-size: 1.5rem !important;
+  line-height: 2rem !important;
+  color: var(--text-default-grey) !important;
+}
+
+h1, h2, h3 {
+  color: var(--text-default-info);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main p {
+  margin: 0;
+  font-size: 1.125rem !important;
+  line-height: 1.75rem !important;
+}
+
+.fr-callout {
+  margin: 0;
+}
+
+ul.jumbo-list {
+  flex: 1;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+ul.jumbo-list li > div {
+  font-weight: 600;
+  line-height: 2rem !important;
+  font-size: 1.25rem !important;
+  color: var(--text-label-pink-macaron);
+}
+
+.jumbo-image {
+  width: 470px;
+  height: 405px;
+  position: relative;
+}
+
+ul.tiles {
+  gap: 2rem;
+  display: flex;
+}
+
+ul.tiles li {
+  flex: 1;
+  display: flex;
+}
+
+.store-links {
+  gap: 4rem;
+  display: flex;
+  margin: 2rem 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.store-links a[href] {
+  background-image: none;
+}
+
+.store-links a[target=_blank]::after {
+  display: none;
+}
+
+.fr-header__tools-links .fr-btn {
+  color: var(--text-default-info);
+}
+
+.fr-header__operator img {
+  width: 4.3rem;
+  height: 4.3rem;
+}

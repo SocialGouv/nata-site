@@ -1,0 +1,5 @@
+app:
+  host: nata.fabrique.social.gouv.fr
+  envFrom:
+    - configMapRef:
+        name: app-configmap
