@@ -73,7 +73,7 @@ function App({ Component, pageProps }: AppProps) {
           imgUrl: "logo-bpco-small.png",
         }}
         homeLinkProps={homeLinkProps}
-        serviceTagline="La solution numérique de suivi quotidien des signes cliniques respiratoires des patients BPCO"
+        serviceTagline="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur neque non varius condimentum."
       />
       <main
         style={{
@@ -98,9 +98,7 @@ function App({ Component, pageProps }: AppProps) {
         accessibility="fully compliant"
         bottomItems={[headerFooterDisplayItem]}
         contentDescription={`
-          BPCO'Mieux est un dispositif expérimental créé par le Dr Jean-Baptiste PERETOUT,
-          médecin réanimateur à l'hôpital Forcilles - Fondation Cognacq-Jay, financé par l'ARS Ile-de-France,
-          en collaboration avec la Fabrique du numérique des ministères sociaux.
+          Nata Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur neque non varius condimentum. Nulla at diam sodales, viverra nisl tincidunt.
         `}
         termsLinkProps={{ href: "/terms" }}
         websiteMapLinkProps={{ href: "#" }}
