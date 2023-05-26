@@ -14,12 +14,12 @@ RUN yarn --frozen-lockfile --ignore-engines
 
 COPY . .
 
-ENV NEXT_PUBLIC_MATOMO_SITE_ID="88"
+ENV NEXT_PUBLIC_MATOMO_SITE_ID="89"
 ENV NEXT_PUBLIC_MATOMO_URL="https://matomo.fabrique.social.gouv.fr"
 ENV NODE_ENV=production
 
 RUN yarn --ignore-engines build-static
 
-FROM ghcr.io/socialgouv/docker/nginx:7.3.0
+FROM ghcr.io/socialgouv/docker/nginx:8.0.1
 
 COPY --from=builder /app/out /usr/share/nginx/html
