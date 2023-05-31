@@ -223,24 +223,6 @@ export default function Home() {
             </p>
           </div>
         </section>
-        {/* <section className="fr-container">
-          <Card
-            horizontal
-            size="large"
-            enlargeLink={false}
-            title="Nous contacter"
-            linkProps={{ href: "#nous-contacter", id: "nous-contacter" }}
-            desc="Envoyez-nous un mail à nata@fabrique.social.gouv.fr"
-            footer={
-              <a
-                href="mailto:nata@fabrique.social.gouv.fr"
-                className="fr-btn fr-btn--primary"
-              >
-                Envoyer un mail
-              </a>
-            }
-          />
-        </section> */}
       </>
     </>
   );
