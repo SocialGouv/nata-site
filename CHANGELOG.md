@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SocialGouv/nata-site/compare/v1.0.3...v1.1.0) (2023-05-31)
+
+
+### Features
+
+* add partners logos ([01f55ff](https://github.com/SocialGouv/nata-site/commit/01f55ffa1f0d2bb8312ac54510e408506cc93612))
+
 ## [1.0.3](https://github.com/SocialGouv/nata-site/compare/v1.0.2...v1.0.3) (2023-05-31)
 
 
