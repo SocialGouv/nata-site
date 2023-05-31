@@ -66,14 +66,14 @@ function App({ Component, pageProps }: AppProps) {
     >
       <Header
         brandTop={brandTop}
-        serviceTitle="Nata"
+        serviceTitle="NATA"
         operatorLogo={{
-          alt: "logo Nata",
+          alt: "logo NATA",
+          imgUrl: "logo-nata.png",
           orientation: "horizontal",
-          imgUrl: "logo-bpco-small.png",
         }}
         homeLinkProps={homeLinkProps}
-        serviceTagline="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur neque non varius condimentum."
+        serviceTagline="L'application mobile destinée aux femmes enceintes afin de les accompagner dans leur suivi de grossesse à travers un parcours éclairé et sécurisant."
       />
       <main
         style={{
@@ -91,14 +91,14 @@ function App({ Component, pageProps }: AppProps) {
         brandTop={brandTop}
         operatorLogo={{
           alt: "logo Nata",
-          imgUrl: "logo-bpco.png",
+          imgUrl: "logo-nata.png",
           orientation: "horizontal",
         }}
         homeLinkProps={homeLinkProps}
         accessibility="fully compliant"
         bottomItems={[headerFooterDisplayItem]}
         contentDescription={`
-          Nata Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur neque non varius condimentum. Nulla at diam sodales, viverra nisl tincidunt.
+          Nata, l'application mobile destinée aux femmes enceintes afin de les accompagner dans leur suivi de grossesse à travers un parcours éclairé et sécurisant.
         `}
         termsLinkProps={{ href: "/terms" }}
         websiteMapLinkProps={{ href: "#" }}
