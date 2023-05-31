@@ -86,13 +86,19 @@ export default function Home() {
           </h2>
           <ul className="tiles">
             <li>
-              <CallOut title="Augmentation significative de la mortalité infantile depuis 2012">
+              <CallOut
+                colorVariant="green-archipel"
+                title="Augmentation significative de la mortalité infantile depuis 2012"
+              >
                 Sur 1000 naissances, la France est passée de 3,3 décès à 3,5
                 décès de nourrissons de moins d&apos;un an.
               </CallOut>
             </li>
             <li>
-              <CallOut title="En France en 2015, 22% des naissances vivantes concernaient des femmes nées à l'étranger">
+              <CallOut
+                colorVariant="green-archipel"
+                title="En France en 2015, 22% des naissances vivantes concernaient des femmes nées à l'étranger"
+              >
                 En adéquation avec la littérature européenne, de récentes
                 recherches font état d&apos;un risque accru de mort maternelle
                 ou de morbidité maternelle sévère (MMS) pour ces femmes
@@ -100,7 +106,10 @@ export default function Home() {
               </CallOut>
             </li>
             <li>
-              <CallOut title="Isolement social, obstacles liés à la langue, peu de connaissances du système de soins et errance résidentielle">
+              <CallOut
+                colorVariant="green-archipel"
+                title="Isolement social, obstacles liés à la langue, peu de connaissances du système de soins et errance résidentielle"
+              >
                 Autant de facteurs de vulnérabilité ayant un impact sur le suivi
                 de grossesse.
               </CallOut>

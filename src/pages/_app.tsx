@@ -111,8 +111,18 @@ function App({ Component, pageProps }: AppProps) {
           },
           sub: [
             {
-              imgUrl: "/logo-hf.png",
-              alt: "Logo de l'hopital forcilles",
+              imgUrl: "/logo-samu-social.png",
+              alt: "Logo du SAMU social de Paris",
+              href: "https://hopital-forcilles.cognacq-jay.fr/",
+            },
+            {
+              imgUrl: "/logo-soliguide.svg",
+              alt: "Logo de Soliguide",
+              href: "https://hopital-forcilles.cognacq-jay.fr/",
+            },
+            {
+              imgUrl: "/logo-solipam.jpeg",
+              alt: "Logo de Solipam",
               href: "https://hopital-forcilles.cognacq-jay.fr/",
             },
           ],

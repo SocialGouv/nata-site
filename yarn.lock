@@ -9,12 +9,12 @@
   dependencies:
     regenerator-runtime "^0.13.11"
 
-"@codegouvfr/react-dsfr@0.38.1":
-  version "0.38.1"
-  resolved "https://registry.yarnpkg.com/@codegouvfr/react-dsfr/-/react-dsfr-0.38.1.tgz#9963d56d2c29b7d3b8307dc7d7c5f0b85130ab47"
-  integrity sha512-XNdR25+6zOu5ThgVBRRSEk9SHSKhTU/fP+jxxUb/e82f77dVhh3LV0Zi18lCWHwsE4he5DeAoh0TPNWPEk67Nw==
+"@codegouvfr/react-dsfr@^0.58.1":
+  version "0.58.1"
+  resolved "https://registry.yarnpkg.com/@codegouvfr/react-dsfr/-/react-dsfr-0.58.1.tgz#ab09927d9656fb668ac32033fd7ad176f8ab6746"
+  integrity sha512-KNJb6CR3gZBVucXbUVgD+Lpj++5LD9wAwJjKWQi1CKXp2f0U0+F3JENSjvPJX4lPvvgeMCaftiYiHLEBOXQ1UA==
   dependencies:
-    tsafe "^1.4.0"
+    tsafe "^1.6.3"
 
 "@eslint/eslintrc@^2.0.0":
   version "2.0.0"
@@ -1954,10 +1954,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-tsafe@^1.4.0:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/tsafe/-/tsafe-1.4.3.tgz#a98ce83616f0d9c01e3c6167a2ead45ba455b2ae"
-  integrity sha512-KjCdgjIqsbKW9oeJGSMVC23jhWm/VXJwkaZ7jffo/WaTioLGTHJqliHe9dECEVzIACNVNs/fwtKwU8wWK4jY4g==
+tsafe@^1.6.3:
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/tsafe/-/tsafe-1.6.4.tgz#048a114761714538c72f16abd25bb247d4e3780e"
+  integrity sha512-l4Z54QFGHO8GF0gBpb3yPGHjkIkIirl8rwW+lMBmtEMzOJeRs8BdjkDEx6nU8Ak9PQVp/KNDtECxTja8MMIDoA==
 
 tsconfig-paths@^3.14.1:
   version "3.14.2"
