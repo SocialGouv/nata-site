@@ -80,47 +80,6 @@ export default function Home() {
         </section>
 
         <section className="fr-container">
-          <h2 style={{ textAlign: "center" }}>
-            Téléchargez l&apos;application
-          </h2>
-          <div className="download-links">
-            <div>
-              <Image
-                priority
-                width={250}
-                src={qrCodePic}
-                alt="Image du lien vers l'App Store"
-              />
-            </div>
-            <div className="store-links">
-              <a
-                target="_blank"
-                href="https://apps.apple.com/us/app/nata/id1670657282"
-                id="download"
-              >
-                <Image
-                  priority
-                  width={250}
-                  src={appStorePic}
-                  alt="Image du lien vers l'App Store"
-                />
-              </a>
-              <a
-                target="_blank"
-                href="https://play.google.com/store/apps/details?id=com.nata"
-              >
-                <Image
-                  priority
-                  width={250}
-                  src={googlePlayPic}
-                  alt="Image du lien vers le Google Play Store"
-                />
-              </a>
-            </div>
-          </div>
-        </section>
-
-        <section className="fr-container">
           <h2>
             Un outil de médiation numérique dans un environnement social
             exigeant
@@ -195,6 +154,47 @@ export default function Home() {
             </ul>
             <div className="relative">
               <Image src={phoneScreenPic5} alt="pof" width={286} height={587} />
+            </div>
+          </div>
+        </section>
+
+        <section className="fr-container">
+          <h2 style={{ textAlign: "center" }}>
+            Téléchargez l&apos;application
+          </h2>
+          <div className="download-links">
+            <div>
+              <Image
+                priority
+                width={250}
+                src={qrCodePic}
+                alt="Image du lien vers l'App Store"
+              />
+            </div>
+            <div className="store-links">
+              <a
+                target="_blank"
+                href="https://apps.apple.com/us/app/nata/id1670657282"
+                id="download"
+              >
+                <Image
+                  priority
+                  width={250}
+                  src={appStorePic}
+                  alt="Image du lien vers l'App Store"
+                />
+              </a>
+              <a
+                target="_blank"
+                href="https://play.google.com/store/apps/details?id=com.nata"
+              >
+                <Image
+                  priority
+                  width={250}
+                  src={googlePlayPic}
+                  alt="Image du lien vers le Google Play Store"
+                />
+              </a>
             </div>
           </div>
         </section>
