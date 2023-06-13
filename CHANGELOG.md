@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SocialGouv/nata-site/compare/v1.1.0...v1.1.1) (2023-06-13)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#2](https://github.com/SocialGouv/nata-site/issues/2)) ([891da14](https://github.com/SocialGouv/nata-site/commit/891da14396c01ae2b733b27389502c41a82bcd5f))
+
 # [1.1.0](https://github.com/SocialGouv/nata-site/compare/v1.0.3...v1.1.0) (2023-05-31)
 
 
