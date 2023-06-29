@@ -6,6 +6,8 @@ export function middleware(request: NextRequest) {
   const viewport = device.type === "mobile" ? "mobile" : "desktop";
   const OS = device.model === "iPhone" ? "iOS" : "Android";
 
+  console.log('device : ', device)
+
   if (viewport === "mobile" && OS === "iOS") {
     return NextResponse.redirect(
       "https://apps.apple.com/us/app/nata/id1670657282"
