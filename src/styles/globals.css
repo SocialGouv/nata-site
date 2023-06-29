@@ -10,7 +10,10 @@ h1 {
   color: var(--text-default-grey) !important;
 }
 
-h1, h2, h3, strong {
+h1,
+h2,
+h3,
+strong {
   color: var(--text-label-green-archipel);
 }
 
@@ -63,7 +66,7 @@ ul.tiles li .fr-callout {
   background-image: none;
 }
 
-.store-links a[target=_blank]::after {
+.store-links a[target="_blank"]::after {
   display: none;
 }
 
