@@ -1,17 +1,15 @@
 ## [1.2.2](https://github.com/SocialGouv/nata-site/compare/v1.2.1...v1.2.2) (2023-06-29)
 
-
 ### Bug Fixes
 
-* console log device ([2da7e17](https://github.com/SocialGouv/nata-site/commit/2da7e17e12235f09d314879f378ff7825a5b1162))
-* console log device ([3e51799](https://github.com/SocialGouv/nata-site/commit/3e51799711eef9a6fdcf26a1287c776e547412c0))
+- console log device ([2da7e17](https://github.com/SocialGouv/nata-site/commit/2da7e17e12235f09d314879f378ff7825a5b1162))
+- console log device ([3e51799](https://github.com/SocialGouv/nata-site/commit/3e51799711eef9a6fdcf26a1287c776e547412c0))
 
 ## [1.2.1](https://github.com/SocialGouv/nata-site/compare/v1.2.0...v1.2.1) (2023-06-29)
 
-
 ### Bug Fixes
 
-* prettier ([db242df](https://github.com/SocialGouv/nata-site/commit/db242df12bd7c9cc937f51175c5d95c32d077343))
+- prettier ([db242df](https://github.com/SocialGouv/nata-site/commit/db242df12bd7c9cc937f51175c5d95c32d077343))
 
 # [1.2.0](https://github.com/SocialGouv/nata-site/compare/v1.1.1...v1.2.0) (2023-06-29)
 
