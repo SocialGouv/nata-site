@@ -6,7 +6,7 @@ export function middleware(request: NextRequest) {
   const viewport = device.type === "mobile" ? "mobile" : "desktop";
   const OS = device.model === "iPhone" ? "iOS" : "Android";
 
-  console.log('device : ', device)
+  console.log('device : ', device);
 
   if (viewport === "mobile" && OS === "iOS") {
     return NextResponse.redirect(
