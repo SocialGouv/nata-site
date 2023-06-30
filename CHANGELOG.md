@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/SocialGouv/nata-site/compare/v1.2.5...v1.3.0) (2023-06-30)
+
+
+### Features
+
+* unique link stores ([3f59913](https://github.com/SocialGouv/nata-site/commit/3f59913a47e5e5e42752f16103370902aea1b3d1))
+
 ## [1.2.5](https://github.com/SocialGouv/nata-site/compare/v1.2.4...v1.2.5) (2023-06-30)
 
 ### Bug Fixes
