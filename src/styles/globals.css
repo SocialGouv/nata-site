@@ -92,6 +92,37 @@ ul.tiles li .fr-callout {
   flex: 1;
 }
 
+.container-image {
+  text-align: center;
+}
+
+.container-image > img {
+    max-width: 100%;
+    height: auto;
+}
+
 .relative {
   position: relative;
+}
+
+.grid-image {
+  display: grid;
+  grid-template-columns: 23% 23% 23% 23%;
+  grid-gap: 2%;
+}
+
+@media (max-width: 768px) { 
+
+  .download-links {
+    flex-direction: column;
+  }
+  .flex {
+    flex-direction: column;
+    margin-left: none !important;
+  }
+  .grid-image {
+    height: auto;
+    grid-template-columns: 100%;
+    grid-gap: 0;
+  }
 }

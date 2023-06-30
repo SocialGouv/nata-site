@@ -38,39 +38,35 @@ export default function Home() {
               <strong>100% anonyme</strong> et{" "}
               <strong>sans aucune récupération de données</strong>
             </p>
-            <div className="flex" style={{ gap: "40px", height: "30rem" }}>
-              <div className="flex-1" style={{ position: "relative" }}>
+            <div className="grid-image">
+              <div className="container-image" style={{ position: "relative" }}>
                 <Image
                   // width={291}
                   // height={583}
-                  fill={true}
                   src={phoneScreenPic1}
                   alt="écran d'exemple de la l'application"
                 />
               </div>
-              <div className="flex-1" style={{ position: "relative" }}>
+              <div className="container-image" style={{ position: "relative" }}>
                 <Image
                   // width={286}
                   // height={603}
-                  fill={true}
                   src={phoneScreenPic2}
                   alt="écran d'exemple de la l'application"
                 />
               </div>
-              <div className="flex-1" style={{ position: "relative" }}>
+              <div className="container-image" style={{ position: "relative" }}>
                 <Image
                   // width={317}
                   // height={580}
-                  fill={true}
                   src={phoneScreenPic3}
                   alt="écran d'exemple de la l'application"
                 />
               </div>
-              <div className="flex-1" style={{ position: "relative" }}>
+              <div className="container-image" style={{ position: "relative" }}>
                 <Image
                   // width={318}
                   // height={582}
-                  fill={true}
                   src={phoneScreenPic4}
                   alt="écran d'exemple de la l'application"
                 />
@@ -119,7 +115,7 @@ export default function Home() {
 
         <section className="fr-container">
           <h2>Nata et ses fonctionnalités</h2>
-          <div className="flex" style={{ marginLeft: "2rem" }}>
+          <div className="flex">
             <ul
               className="flex flex-column flex-1"
               style={{
@@ -127,6 +123,7 @@ export default function Home() {
                 lineHeight: "2rem",
                 fontSize: "x-large",
                 marginRight: "3rem",
+                marginLeft: "3rem",
                 justifyContent: "center",
               }}
             >
@@ -161,8 +158,11 @@ export default function Home() {
                 géolocalisation
               </li>
             </ul>
-            <div className="relative">
-              <Image src={phoneScreenPic5} alt="pof" width={286} height={587} />
+            <div className="relative"
+              style={{
+                textAlign: "center",
+              }}>
+              <Image src={phoneScreenPic5} alt="pof" width={266} height={557} />
             </div>
           </div>
         </section>
