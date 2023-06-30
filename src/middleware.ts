@@ -8,7 +8,7 @@ export function middleware(request: NextRequest) {
 
   console.log("device : ", device);
 
-  if (viewport === "mobile" && OS === "iOS") {
+  /*if (viewport === "mobile" && OS === "iOS") {
     return NextResponse.redirect(
       "https://apps.apple.com/us/app/nata/id1670657282"
     );
@@ -17,7 +17,7 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(
       "https://play.google.com/store/apps/details?id=com.nata01&gl=FR&pli=1"
     );
-  }
+  }*/
 }
 
 // See "Matching Paths" below to learn more
