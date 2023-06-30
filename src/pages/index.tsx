@@ -158,10 +158,12 @@ export default function Home() {
                 géolocalisation
               </li>
             </ul>
-            <div className="relative"
+            <div
+              className="relative"
               style={{
                 textAlign: "center",
-              }}>
+              }}
+            >
               <Image src={phoneScreenPic5} alt="pof" width={266} height={557} />
             </div>
           </div>
