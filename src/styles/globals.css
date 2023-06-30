@@ -97,8 +97,8 @@ ul.tiles li .fr-callout {
 }
 
 .container-image > img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .relative {
@@ -111,8 +111,7 @@ ul.tiles li .fr-callout {
   grid-gap: 2%;
 }
 
-@media (max-width: 768px) { 
-
+@media (max-width: 768px) {
   .download-links {
     flex-direction: column;
   }
