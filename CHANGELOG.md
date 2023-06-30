@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/SocialGouv/nata-site/compare/v1.2.4...v1.2.5) (2023-06-30)
+
+
+### Bug Fixes
+
+* prettier ([8d40ab1](https://github.com/SocialGouv/nata-site/commit/8d40ab1a7ea0bb0d5fbebff641d2614130577cbf))
+
 ## [1.2.4](https://github.com/SocialGouv/nata-site/compare/v1.2.3...v1.2.4) (2023-06-30)
 
 ### Bug Fixes
