@@ -1,3 +1,11 @@
+## [1.3.1](https://github.com/SocialGouv/nata-site/compare/v1.3.0...v1.3.1) (2023-07-11)
+
+
+### Bug Fixes
+
+* image size on homepage ([5126e8e](https://github.com/SocialGouv/nata-site/commit/5126e8ed7a499cb08010ee2eb899b3cdce5ee363))
+* link redirection in partenaires section ([7faccbc](https://github.com/SocialGouv/nata-site/commit/7faccbcfef9ab84b9302e8b124a9c4ac02f1531b))
+
 # [1.3.0](https://github.com/SocialGouv/nata-site/compare/v1.2.5...v1.3.0) (2023-06-30)
 
 
