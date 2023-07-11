@@ -113,17 +113,17 @@ function App({ Component, pageProps }: AppProps) {
             {
               imgUrl: "/logo-samu-social.png",
               alt: "Logo du SAMU social de Paris",
-              href: "https://hopital-forcilles.cognacq-jay.fr/",
+              href: "https://https://www.samusocial.paris/",
             },
             {
               imgUrl: "/logo-soliguide.svg",
               alt: "Logo de Soliguide",
-              href: "https://hopital-forcilles.cognacq-jay.fr/",
+              href: "https://soliguide.fr/fr/",
             },
             {
               imgUrl: "/logo-solipam.jpeg",
               alt: "Logo de Solipam",
-              href: "https://hopital-forcilles.cognacq-jay.fr/",
+              href: "https://solipam.fr/",
             },
           ],
         }}
