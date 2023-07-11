@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/SocialGouv/nata-site/compare/v1.3.1...v1.3.2) (2023-07-11)
+
+
+### Bug Fixes
+
+* fixing url for stores redirections ([2924be7](https://github.com/SocialGouv/nata-site/commit/2924be7070b0c205c57db2e7764f90e6d808588a))
+
 ## [1.3.1](https://github.com/SocialGouv/nata-site/compare/v1.3.0...v1.3.1) (2023-07-11)
 
 
