@@ -99,6 +99,8 @@ ul.tiles li .fr-callout {
 .container-image > img {
   max-width: 100%;
   height: auto;
+  margin-top: 20px;
+  scale: 1.8;
 }
 
 .relative {
