@@ -185,7 +185,7 @@ export default function Home() {
             <div className="store-links">
               <a
                 target="_blank"
-                href="https://apps.apple.com/us/app/nata/id1670657282"
+                href="https://apps.apple.com/us/app/nata/id6448191010"
                 id="download"
               >
                 <Image
@@ -197,7 +197,7 @@ export default function Home() {
               </a>
               <a
                 target="_blank"
-                href="https://play.google.com/store/apps/details?id=com.nata"
+                href="https://play.google.com/store/apps/details?id=com.nata01"
               >
                 <Image
                   priority

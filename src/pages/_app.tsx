@@ -113,7 +113,7 @@ function App({ Component, pageProps }: AppProps) {
             {
               imgUrl: "/logo-samu-social.png",
               alt: "Logo du SAMU social de Paris",
-              href: "https://https://www.samusocial.paris/",
+              href: "https://www.samusocial.paris/",
             },
             {
               imgUrl: "/logo-soliguide.svg",
