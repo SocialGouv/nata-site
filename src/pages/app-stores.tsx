@@ -9,7 +9,7 @@ export default function Terms() {
   React.useEffect(() => {
     if (rdd.isMobile && rdd.isIOS) {
       console.log("ios");
-      push("https://apps.apple.com/us/app/nata/id1670657282");
+      push("https://apps.apple.com/us/app/nata/id6448191010");
     } else if (rdd.isMobile && rdd.isAndroid) {
       console.log("android");
       push(
