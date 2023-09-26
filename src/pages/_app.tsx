@@ -95,7 +95,7 @@ function App({ Component, pageProps }: AppProps) {
           orientation: "horizontal",
         }}
         homeLinkProps={homeLinkProps}
-        accessibility="fully compliant"
+        accessibility="non compliant"
         bottomItems={[headerFooterDisplayItem]}
         contentDescription={`
           Nata, l'application mobile destinée aux femmes enceintes afin de les accompagner dans leur suivi de grossesse à travers un parcours éclairé et sécurisant.
