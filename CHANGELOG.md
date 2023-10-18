@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/SocialGouv/nata-site/compare/v1.4.1...v1.4.2) (2023-10-18)
+
+
+### Bug Fixes
+
+* fix faute orth ([f881695](https://github.com/SocialGouv/nata-site/commit/f8816950ac68d15ea1e76bb4ffdcea46cf4f8000))
+
 ## [1.4.1](https://github.com/SocialGouv/nata-site/compare/v1.4.0...v1.4.1) (2023-09-26)
 
 
