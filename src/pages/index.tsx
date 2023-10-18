@@ -34,7 +34,7 @@ export default function Home() {
           </p>
           <div className="jumbo">
             <p>
-              Un service publique <strong>100% gratuit</strong>,{" "}
+              Un service public <strong>100% gratuit</strong>,{" "}
               <strong>100% anonyme</strong> et{" "}
               <strong>sans aucune récupération de données</strong>
             </p>
