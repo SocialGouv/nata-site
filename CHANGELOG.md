@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/SocialGouv/nata-site/compare/v1.4.2...v1.5.0) (2023-11-02)
+
+
+### Features
+
+* add page stats ([6962c75](https://github.com/SocialGouv/nata-site/commit/6962c75a31027c51cd8f9079ad6d9a6e9fd2e3ed))
+
 ## [1.4.2](https://github.com/SocialGouv/nata-site/compare/v1.4.1...v1.4.2) (2023-10-18)
 
 
