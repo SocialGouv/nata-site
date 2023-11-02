@@ -102,7 +102,22 @@ function App({ Component, pageProps }: AppProps) {
         `}
         termsLinkProps={{ href: "/terms" }}
         websiteMapLinkProps={{ href: "#" }}
-        personalDataLinkProps={{ href: "/privacy-policy" }}
+        linkList={[
+          {
+            categoryName: "Données personnelles",
+            links: [{
+              linkProps: { href: "/privacy-policy" },
+              text: "Politique de confidentialité",
+            }]
+          },
+          {
+            categoryName: "Statistiques",
+            links: [{
+              linkProps: { href: "/stats" },
+              text: "Statistiques d'utilisation",
+            }]
+          }
+        ]}
         partnersLogos={{
           main: {
             imgUrl: "/logo-ars.png",
