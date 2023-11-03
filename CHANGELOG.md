@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/SocialGouv/nata-site/compare/v1.5.0...v1.5.1) (2023-11-03)
+
+
+### Bug Fixes
+
+* trigger deploy ([eb9058e](https://github.com/SocialGouv/nata-site/commit/eb9058eba28c0467a83440e1cac2b1683363bbd7))
+
 # [1.5.0](https://github.com/SocialGouv/nata-site/compare/v1.4.2...v1.5.0) (2023-11-02)
 
 
