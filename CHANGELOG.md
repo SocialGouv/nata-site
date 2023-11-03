@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/SocialGouv/nata-site/compare/v1.5.1...v1.5.2) (2023-11-03)
+
+
+### Bug Fixes
+
+* update dockerfile ([547ceb3](https://github.com/SocialGouv/nata-site/commit/547ceb3940ec17a3218ebcc4741626f4878c867d))
+
 ## [1.5.1](https://github.com/SocialGouv/nata-site/compare/v1.5.0...v1.5.1) (2023-11-03)
 
 
