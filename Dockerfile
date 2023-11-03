@@ -9,7 +9,7 @@ RUN chown node:node /app
 COPY ./package.json .
 COPY ./yarn.lock .
 
-RUN yarn --ignore-engines
+RUN yarn --frozen-lockfile --ignore-engines
 
 
 COPY . .
