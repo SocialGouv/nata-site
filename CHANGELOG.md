@@ -1,3 +1,11 @@
+## [1.5.3](https://github.com/SocialGouv/nata-site/compare/v1.5.2...v1.5.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* iframe stats metabase ([ff710c3](https://github.com/SocialGouv/nata-site/commit/ff710c39bb1f06214896940f3d031ee1ef4f64d7))
+* lint ([61aca7e](https://github.com/SocialGouv/nata-site/commit/61aca7e623594cf81d17b48c578b3680d7e6a309))
+
 ## [1.5.2](https://github.com/SocialGouv/nata-site/compare/v1.5.1...v1.5.2) (2023-11-03)
 
 
