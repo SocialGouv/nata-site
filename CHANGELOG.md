@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/SocialGouv/nata-site/compare/v1.5.3...v1.5.4) (2023-11-03)
+
+
+### Bug Fixes
+
+* re add frozen-lockfile ([f87721e](https://github.com/SocialGouv/nata-site/commit/f87721e62af73611d315b8f221cf071daea0882d))
+
 ## [1.5.3](https://github.com/SocialGouv/nata-site/compare/v1.5.2...v1.5.3) (2023-11-03)
 
 
