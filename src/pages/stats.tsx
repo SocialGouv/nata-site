@@ -15,12 +15,12 @@ export default function LegalNotices() {
         <section className="fr-container">
           <h1 style={{ marginBottom: "4rem" }}>Statistiques</h1>
           <iframe
-    src="https://matomo-metabase-nata.fabrique.social.gouv.fr/public/dashboard/4d21c451-4088-425b-9ff4-e301dc6b26de"
-    frameborder="0"
-    width="1200"
-    height="900"
-    allowtransparency
-></iframe>
+            src="https://matomo-metabase-nata.fabrique.social.gouv.fr/public/dashboard/4d21c451-4088-425b-9ff4-e301dc6b26de"
+            frameborder="0"
+            width="1200"
+            height="900"
+            allowtransparency
+          ></iframe>
         </section>
       </>
     </>

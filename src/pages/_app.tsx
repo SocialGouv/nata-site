@@ -105,18 +105,22 @@ function App({ Component, pageProps }: AppProps) {
         linkList={[
           {
             categoryName: "Données personnelles",
-            links: [{
-              linkProps: { href: "/privacy-policy" },
-              text: "Politique de confidentialité",
-            }]
+            links: [
+              {
+                linkProps: { href: "/privacy-policy" },
+                text: "Politique de confidentialité",
+              },
+            ],
           },
           {
             categoryName: "Statistiques",
-            links: [{
-              linkProps: { href: "/stats" },
-              text: "Statistiques d'utilisation",
-            }]
-          }
+            links: [
+              {
+                linkProps: { href: "/stats" },
+                text: "Statistiques d'utilisation",
+              },
+            ],
+          },
         ]}
         partnersLogos={{
           main: {
