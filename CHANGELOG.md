@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/SocialGouv/nata-site/compare/v1.6.0...v1.6.1) (2023-12-13)
+
+
+### Bug Fixes
+
+* lock ([bc5c126](https://github.com/SocialGouv/nata-site/commit/bc5c126dc53938b44cbf8414eba4a4896e4973a6))
+
 # [1.6.0](https://github.com/SocialGouv/nata-site/compare/v1.5.4...v1.6.0) (2023-12-13)
 
 
