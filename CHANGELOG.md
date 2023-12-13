@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/SocialGouv/nata-site/compare/v1.5.4...v1.6.0) (2023-12-13)
+
+
+### Features
+
+* prod ovh ([#35](https://github.com/SocialGouv/nata-site/issues/35)) ([20c3545](https://github.com/SocialGouv/nata-site/commit/20c3545b0904ad58823dc8d6689f869870f42a7b))
+
 ## [1.5.4](https://github.com/SocialGouv/nata-site/compare/v1.5.3...v1.5.4) (2023-11-03)
 
 
