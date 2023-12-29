@@ -28,5 +28,6 @@
   "devDependencies": {
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.4"
-  }
+  },
+  "packageManager": "yarn@4.0.2"
 }
