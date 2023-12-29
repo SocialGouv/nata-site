@@ -19,7 +19,7 @@ ENV NEXT_PUBLIC_MATOMO_SITE_ID="89"
 ENV NEXT_PUBLIC_MATOMO_URL="https://matomo.fabrique.social.gouv.fr"
 ENV NODE_ENV=production
 
-RUN yarn --ignore-engines build-static
+RUN yarn build-static
 
 RUN yarn workspaces focus --production && yarn cache clean
 
