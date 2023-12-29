@@ -6,6 +6,9 @@ WORKDIR /app
 
 RUN chown node:node /app
 
+# ignore node engine constraint for yarn berry
+ENV YARN_IGNORE_NODE=1
+
 COPY yarn.lock .yarnrc.yml ./
 COPY .yarn .yarn
 RUN yarn fetch --immutable && yarn cache clean
