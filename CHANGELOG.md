@@ -1,3 +1,13 @@
+## [1.6.2](https://github.com/SocialGouv/nata-site/compare/v1.6.1...v1.6.2) (2024-01-15)
+
+
+### Bug Fixes
+
+* ignore-engines ([25d3b3f](https://github.com/SocialGouv/nata-site/commit/25d3b3f96ed92e1362cfa847eb709053e00c24ad))
+* ignore-engines ([21be625](https://github.com/SocialGouv/nata-site/commit/21be62572a3e5eae135191bc9b6de899adc1c129))
+* yarn berry + fetch + docker opti ([7683fe7](https://github.com/SocialGouv/nata-site/commit/7683fe78850b59eaec42fd508ebeb3ebcc78dae9))
+* yarn berry + fetch + docker opti ([6caef5b](https://github.com/SocialGouv/nata-site/commit/6caef5bacdfe0f2f12f75dcf425fda53be23944c))
+
 ## [1.6.1](https://github.com/SocialGouv/nata-site/compare/v1.6.0...v1.6.1) (2023-12-13)
 
 
