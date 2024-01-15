@@ -6,11 +6,12 @@ WORKDIR /app
 
 RUN chown node:node /app
 
-COPY ./package.json .
-COPY ./yarn.lock .
+# ignore node engine constraint for yarn berry
+ENV YARN_IGNORE_NODE=1
 
-RUN yarn --frozen-lockfile --ignore-engines
-
+COPY yarn.lock .yarnrc.yml ./
+COPY .yarn .yarn
+RUN yarn fetch --immutable && yarn cache clean
 
 COPY . .
 
@@ -18,7 +19,9 @@ ENV NEXT_PUBLIC_MATOMO_SITE_ID="89"
 ENV NEXT_PUBLIC_MATOMO_URL="https://matomo.fabrique.social.gouv.fr"
 ENV NODE_ENV=production
 
-RUN yarn --ignore-engines build-static
+RUN yarn build-static
+
+RUN yarn workspaces focus --production && yarn cache clean
 
 FROM ghcr.io/socialgouv/docker/nginx:8.0.2
 
